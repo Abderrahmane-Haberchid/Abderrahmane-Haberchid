@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Abderrahmane-Haberchid
-- 👀 I’m interested in everything built with Java
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on any Java project
+- 👀 I’m interested in software engineering
+- 💞️ I’m looking to collaborate on any Java/Javascript project
 - 📫 Send me an email anytime at abderrahmane.haberchid.dev@gmail.com
-- 😄 Pronouns: ABDERRAHMANE HABERCHID LOOOL
 - ⚡ Fun fact: I'm in love with programming specially in java
 
 <!---
