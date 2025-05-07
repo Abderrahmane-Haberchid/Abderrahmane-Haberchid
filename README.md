@@ -2,6 +2,7 @@
 - 👀 I’m a software engineer
 - 💞️ I’m looking to collaborate on any Java/Javascript/Docker/Spring/DevOps project
 - 📫 Send me an email anytime at abderrahmane.haberchid.dev@gmail.com
+- LinkedIn => https://www.linkedin.com/in/abderrahmane-haberchid-115732296/
 - ⚡ Fun fact: I'm in love with programming specially in java
 
 <!---
